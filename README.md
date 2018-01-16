@@ -1,3 +1,16 @@
+阮一峰react教程：
+
+![RYF--Reac教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+
+
+* react.js 是 React 的核心库，
+
+* react-dom.js 是提供与 DOM 相关的功能，
+
+* Browser.js 的作用是将 JSX 语法转为 JavaScript 语法，这一步很消耗时间，实际上线的时候，应该将它放到服务器完成。
+
+
+
 This is a collection of simple demos of React.js.
 
 These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful library.
